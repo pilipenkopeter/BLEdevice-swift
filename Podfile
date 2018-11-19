@@ -6,15 +6,13 @@
 target 'BLEdevice' do
   # Comment the next line if you're not using Swift and don't want to use dynamic frameworks
   use_frameworks!
-  pod 'XCGLogger', '~> 5.0.1'
-  # Pods for BLEdevice
+  pod 'XCGLogger', '~> 6.1.0'
 
 end
 
 target 'BLEdevice-Sample' do
   # Comment the next line if you're not using Swift and don't want to use dynamic frameworks
   use_frameworks!
-  pod 'XCGLogger', '~> 5.0.1'
-  # Pods for BLEdevice-Sample
+  pod 'XCGLogger', '~> 6.1.0'
 
 end
