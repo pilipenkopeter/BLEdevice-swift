@@ -273,7 +273,7 @@
 			attributes = {
 				LastSwiftUpdateCheck = 0820;
 				LastUpgradeCheck = 1010;
-				ORGANIZATIONNAME = "Ivan Brazhnikov";
+				ORGANIZATIONNAME = "Peter Pilipenko";
 				TargetAttributes = {
 					9F5A60741E464BF500F03D1D = {
 						CreatedOnToolsVersion = 8.2.1;
@@ -580,7 +580,7 @@
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.ivanbazhnikov.ios.BLEdevice;
+				PRODUCT_BUNDLE_IDENTIFIER = com.pilipenkopeter.BLEdevice;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
@@ -605,7 +605,7 @@
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.ivanbazhnikov.ios.BLEdevice;
+				PRODUCT_BUNDLE_IDENTIFIER = com.pilipenkopeter.BLEdevice;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
 				SWIFT_SWIFT3_OBJC_INFERENCE = Off;
@@ -622,7 +622,7 @@
 				INFOPLIST_FILE = "BLEdevice-Sample/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.ivanbazhnikov.ios.BLEdevice-Sample";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.pilipenkopeter.BLEdevice-Sample";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.2;
 			};
@@ -637,7 +637,7 @@
 				INFOPLIST_FILE = "BLEdevice-Sample/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.ivanbazhnikov.ios.BLEdevice-Sample";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.pilipenkopeter.BLEdevice-Sample";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.2;
 			};

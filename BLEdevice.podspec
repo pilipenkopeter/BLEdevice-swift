@@ -3,14 +3,14 @@ Pod::Spec.new do |s|
   # ―――  Spec Metadata  ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
 
   s.name         = "BLEdevice"
-  s.version      = "0.3.0"
+  s.version      = "0.3.1"
   s.summary      = "Library that eases the way to interact with Bluetooth Low Energy devices."
   
   s.description  = <<-DESC
                     Library that eases the way to interact with Bluetooth Low Energy devices.
                    DESC
 
-  s.homepage     = "https://github.com/ivabra/BLEdevice-swift"
+  s.homepage     = "https://github.com/pilipenkopeter/BLEdevice-swift"
 
 
   # ―――  Spec License  ――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
@@ -20,7 +20,7 @@ Pod::Spec.new do |s|
 
   # ――― Author Metadata  ――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
   
-  s.author             = { "Ivan Brazhnikov" => "samsungpc239@gmail.com" }
+  s.author             = { "Peter Pilipenko" => "pilipenko.p@gmail.com" }
 
   # ――― Platform Specifics ――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
   
@@ -32,7 +32,7 @@ Pod::Spec.new do |s|
 
   # ――― Source Location ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
   
-  s.source       = { :git => "https://github.com/ivabra/BLEdevice-swift.git", :commit => "1fc54e33b1bea856a305764ed7455df2414a00ac" }
+  s.source       = { :git => "https://github.com/pilipenkopeter/BLEdevice-swift.git", :commit => "1fc54e33b1bea856a305764ed7455df2414a00ac" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
